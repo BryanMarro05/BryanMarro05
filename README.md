@@ -1,74 +1,126 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00D4AA&center=true&vCenter=true&width=600&lines=Bryan+Marroqu%C3%AD;Software+Developer;Building+Digital+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=BRYAN+MARROQU%C3%8D;SOFTWARE+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE;BACKEND+%7C+DATABASES+%7C+SYSTEMS" />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bryanmarroqui\&color=00d4aa\&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B00FF&height=220&section=header&text=BRYAN%20MARROQUÍ&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Backend%20Engineer&descAlignY=60"/>
 
 </div>
 
-# 👨‍💻 Bryan Marroquí
+# ⚡ DIGITAL ARCHITECT
 
-```bash
-> whoami
+```yaml
+Name: Bryan Marroquí
+Role: Software Developer
+Location: El Salvador
+Status: Online 🟢
 
-Software Developer
-El Salvador 🇸🇻
-Backend • Databases • Web Applications
+Focus:
+  - Backend Development
+  - Database Design
+  - Web Applications
+  - Systems Administration
+
+Mission:
+  Transform ideas into scalable software.
 ```
 
-### 🚀 About Me
+---
 
-Passionate software developer focused on building efficient, scalable, and user-centered solutions. Interested in backend development, databases, systems administration, and emerging technologies.
+## 🧠 SYSTEM.LOG
 
-### ⚙️ Tech Stack
+> Passionate developer focused on creating efficient, scalable and impactful solutions.
 
-#### Languages
+I enjoy turning complex problems into clean code, designing robust systems and building technology that delivers real value.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge\&logo=php)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=cplusplus)
+```bash
+$ skill-scan
 
-#### Backend & Database
-
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge\&logo=microsoftsqlserver)
-
-#### Tools
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Windows Server](https://img.shields.io/badge/Windows_Server-black?style=for-the-badge\&logo=windows)
+✔ Backend Development
+✔ Database Management
+✔ Server Administration
+✔ System Integration
+✔ API Development
+✔ Technical Support
+✔ Continuous Learning
+```
 
 ---
 
-### 📊 GitHub Stats
+## ⚙️ TECH ARSENAL
 
-<div align="center">
+### Languages
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge\&logo=php\&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight\&hide_border=true)
+### Database & Backend
 
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge\&logo=mysql\&logoColor=00F7FF)
+![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=FF4D4D)
+
+### Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![Windows Server](https://img.shields.io/badge/Windows_Server-000000?style=for-the-badge\&logo=windows\&logoColor=00A4EF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
 
 ---
 
-### 📫 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/TU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)](mailto:TU_EMAIL)
+## 🚀 CURRENT OBJECTIVES
 
 ```javascript
 const bryan = {
-  status: "Available for opportunities",
-  focus: ["Backend", "Databases", "Web Development"],
-  learning: ["Software Architecture", "Cloud Computing"]
+    building: "Modern Web Solutions",
+    learning: "Software Architecture",
+    exploring: "Cloud Technologies",
+    goal: "Create scalable and impactful software",
+    status: "Always coding..."
 };
 ```
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=000000"/>
+
+</div>
+
+---
+
+## 🌐 CONNECT TO THE NETWORK
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/TU_USUARIO)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B00FF?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/EMAIL-FF0080?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:TU_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+```diff
++ SYSTEM STATUS: AVAILABLE FOR OPPORTUNITIES
++ OPEN TO COLLABORATIONS
++ READY TO BUILD THE NEXT PROJECT
+```
+
+⚡ "Code is not just syntax. It's the bridge between ideas and reality."
 
 </div>
